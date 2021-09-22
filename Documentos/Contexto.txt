@@ -1,0 +1,7 @@
+Cada dia son mas las personas dando el paso tecnologico para impulsar su negocio, nuestro proyecto va dirigido para todas
+esas pequeñas empresas que ofrecen servicios pero no tienen presencia en las redes, tenemos como proposito crear una pasarela
+donde clientes y colaboradores puedan tener un contacto mas cercano. A los usuarios les ofreceremos la posibilidad de agendar 
+servicios que necesiten como entrega de medicamentos, mantenimiento de electrodomesticos, cerrajeria, etc. Lo mejor de esto
+es que todos los servicios se podran realizar a domicilio, sin la necesidad de desplazamiento del usuario final, para ellos
+realizaremos una investigacion de seguridad para conocer si nuestros colaboradores nos ofrecen informacion veridica y de 
+confianza, con esto buscamos evitar perfiles falsos de empresas que puedan poner en riesgo a los usuarios finales.
